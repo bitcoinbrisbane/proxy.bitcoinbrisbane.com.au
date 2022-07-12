@@ -1,2 +1,2 @@
 # holacracy.dltx.io
-Holacracy API for DLTx
+Proxy for Glass Frog, Meetup etc for DLTx

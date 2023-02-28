@@ -1,2 +1,2 @@
-# proxy.dltx.io
-Proxy for Glass Frog, Meetup etc for DLTx
+# proxy.bitcoinbrisbane.com.au
+Proxy for Meetup, Twitter, etc
